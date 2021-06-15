@@ -23,5 +23,5 @@ This project uses `MVVM` architecture.
 * Swift 5.3.1
 
 # ScreenShots:
-![List Screen](listing_new.png)
-![List Screen](add_new.png)
+![List Screen](listing.png)
+![List Screen](add.png)
